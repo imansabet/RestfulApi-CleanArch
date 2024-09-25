@@ -3,7 +3,11 @@ This RESTful API project is designed to manage a simple product catalog. Built u
 
 The API follows the principles of Clean Architecture  , separating concerns into distinct layers:
 
-Core: Contains the domain entities and interfaces.
-Application: Implements the business logic and service layer.
-Infrastructure: Provides the repository pattern for data access.
-WebApi: Acts as the entry point for client requests, exposing endpoints for interacting with the product catalog.
+# Core:
+Contains the domain entities and interfaces.
+# Application: 
+Implements the business logic and service layer.
+# Infrastructure:
+Provides the repository pattern for data access.
+# WebApi:
+Acts as the entry point for client requests, exposing endpoints for interacting with the product catalog.
